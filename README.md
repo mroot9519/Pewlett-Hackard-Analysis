@@ -4,7 +4,7 @@ This depository hold sequel queries for a hypothetical company 'Pewlett Hackard'
 
 The relationship, including primary keys, of the 6 source data files can be seen in the below ERD.
 
-![ERD] (https://github.com/mroot9519/Pewlett-Hackard-Analysis/blob/master/EmplyeeDB.png)
+![ERD](https://github.com/mroot9519/Pewlett-Hackard-Analysis/blob/master/EmplyeeDB.png)
 
 Below are three of the requested tables.
 
