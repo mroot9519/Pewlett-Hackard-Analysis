@@ -1,2 +1,3 @@
 # Pewlett-Hackard-Analysis
-SQL work week of 2/24
+
+![Employee Title and Salary](https://github.com/mroot9519/Pewlett-Hackard-Analysis/blob/master/employee%20title%20salary.png)
