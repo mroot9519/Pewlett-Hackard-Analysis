@@ -3,10 +3,6 @@
 ## Overview
 This depository hold sequel queries for a hypothetical company 'Pewlett Hackard'. The data centers around employee information, namely names, start and finish dates, salariesm, titles, departments, and identification numbers. The queries were designed to get specific views of employee data derived from 6 distinct raw csv files. i downloaded the csv files to my desktop and then used pgAdmin query tool to manipulate and rearrange the data as desired.
 
-## Summary of Results
-Number of individuals retiring:
-Number of individuals being hired:
-Number meeting mentorship criteria:
 
 ## ERD
 The relationship, including primary keys, of the 6 source data files can be seen in the below ERD.
