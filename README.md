@@ -1,12 +1,19 @@
 # Pewlett-Hackard-Analysis
 
+## Overview
 This depository hold sequel queries for a hypothetical company 'Pewlett Hackard'. The data centers around employee information, namely names, start and finish dates, salariesm, titles, departments, and identification numbers. The queries were designed to get specific views of employee data derived from 6 distinct raw csv files. i downloaded the csv files to my desktop and then used pgAdmin query tool to manipulate and rearrange the data as desired.
 
+## Summary of Results
+Number of individuals retiring:
+Number of individuals being hired:
+Number meeting mentorship criteria:
+
+## ERD
 The relationship, including primary keys, of the 6 source data files can be seen in the below ERD.
 
 ![ERD](https://github.com/mroot9519/Pewlett-Hackard-Analysis/blob/master/EmplyeeDB.png)
 
-Below are three of the requested tables.
+Below are headers and first few rows of three requested tables.
 
 
 ## Current employees with title and salary.
@@ -19,3 +26,6 @@ Below are three of the requested tables.
 
 ## Current employees names, titles, start and finish dates, and salaries.
 ![Final Challenge Table](https://github.com/mroot9519/Pewlett-Hackard-Analysis/blob/master/challenge%20table.png)
+
+## Reccommendation for further analysis
+Join departments or titles with salaries to see how much pay has changed over time.
